@@ -1,0 +1,52 @@
+"ui.background" = { bg = "darkblue" }
+"ui.text" = "palewhite"
+"ui.selection" = { fg = "cyan", modifiers = ["bold"] }
+"ui.linenr.selected" = { fg = "light-gray", modifiers = ["bold"] }
+"ui.linenr" = "gray"
+"ui.cursor" = { bg = "#de6e5336" }
+"ui.menu.selected" = { bg = "cyan" }
+
+
+"string" = "magenta"
+"comment" = "#ab9b9714"
+
+
+"ui.bufferline.active" = { bg = "blue" }
+"ui.bufferline.background" = { bg = "#3A4047" }
+
+"ui.gutter.selected" = "#de6e5336"
+
+
+# "ui.syntax.bracket" = "gray"
+# "ui.syntax.bracket.1" = "#ff5f87"
+# "ui.syntax.bracket.2" = "#87d7ff"
+# "ui.syntax.bracket.3" = "#5fff87"
+# "ui.syntax.bracket.4" = "#ffd75f"
+# "ui.syntax.bracket.5" = "#af87ff"
+# "ui.syntax.bracket.6" = "#d75f5f"
+
+
+"ui.lint.error" = { fg = "red" }
+"ui.lint.warning" = { fg = "red" }
+"ui.lint.info" = { fg = "red" }
+"ui.lint.hint" = { fg = "red" }
+
+
+"diagnostic.error" = { underline = { style = "line", color = "red" } }
+"diagnostic.warning" = { underline = { style = "line", color = "red" } }
+"diagnostic.info" = { underline = { style = "line", color = "red" } }
+"diagnostic.hint" = { underline = { style = "line", color = "red" } }
+"diagnostic.label" = { fg = "red", modifiers = ["bold"] }
+
+
+"ui.virtual.diagnostic.error" = { fg = "red" }
+"ui.virtual.diagnostic.warning" = { fg = "red" }
+"ui.virtual.diagnostic.hint" = { fg = "red" }
+"ui.virtual.diagnostic.info" = { fg = "red" }
+
+"error" = { fg = "#f28779", modifiers = ["bold"] }
+
+
+[palette]
+"darkblue" = "#313742"
+"palewhite" = "#F4F5F1"
